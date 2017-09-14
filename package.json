@@ -1,6 +1,6 @@
 {
   "name": "react-rxjs-connect",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Connect React components to RxJS observables, as found in react-redux pattern",
   "main": "connect.js",
   "peerDependencies": {
